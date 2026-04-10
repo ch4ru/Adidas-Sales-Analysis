@@ -33,20 +33,24 @@ An interactive sales analytics dashboard built with **Python, Streamlit, Pandas,
 - Expandable tables and one-click CSV downloads for transparency  
 
 ## 📂 Project Structure
+```
 ├── Adidas.xlsx            # Sales dataset  
 ├── adidas-logo.jpg        # Branding image  
 ├── app.py                 # Streamlit application  
 ├── requirements.txt       # Dependencies  
 ├── README.md              # Documentation  
+```
 
 ## 🌐 Live Deployment
 The dashboard is deployed on Streamlit Community Cloud and publicly accessible using the link above.
 
 ## 🚀 Run Locally
+```
 git clone https://github.com/ch4ru/adidas-sales-dashboard.git  
 cd adidas-sales-dashboard  
 pip install -r requirements.txt  
 streamlit run app.py  
+```
 
 ## 🧠 Skills Demonstrated
 Exploratory Data Analysis (EDA)  
