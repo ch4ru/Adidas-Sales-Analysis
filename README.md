@@ -6,8 +6,6 @@
 
 # 🏷️ Adidas Interactive Sales Dashboard
 
-🔗 **Live App:** https://addidassalesanalysisdashboard-cfgybbqrsmgw2r6w2abwtu.streamlit.app/
-
 ## 📌 Overview
 An interactive sales analytics dashboard built with **Python, Streamlit, Pandas, and Plotly** to analyze Adidas retail sales performance across retailers, time, and geography. The application enables stakeholders to explore trends, compare performance metrics, and download insights through a clean, self-service interface. This project demonstrates end-to-end analytics, from data ingestion and transformation to cloud deployment.
 
