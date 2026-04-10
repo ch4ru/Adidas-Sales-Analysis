@@ -43,7 +43,7 @@ An interactive sales analytics dashboard built with **Python, Streamlit, Pandas,
 The dashboard is deployed on Streamlit Community Cloud and publicly accessible using the link above.
 
 ## 🚀 Run Locally
-git clone https://github.com/your-username/adidas-sales-dashboard.git  
+git clone https://github.com/ch4ru/adidas-sales-dashboard.git  
 cd adidas-sales-dashboard  
 pip install -r requirements.txt  
 streamlit run app.py  
